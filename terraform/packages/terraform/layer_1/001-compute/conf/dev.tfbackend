@@ -1,0 +1,3 @@
+bucket         = "backstage-poc-state"
+key            = "layer_1/compute/terraform.tfstate"
+region         = "ap-northeast-1"
